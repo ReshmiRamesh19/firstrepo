@@ -7,7 +7,7 @@ public class Main {
 		
 		SalesData objSalesData=new SalesData();
 		
-		System.out.println("Hello, Git Repositry !!!!");
+		System.out.println("Hello, Git Repositry User!!!!");
 		displayGreetings();
 		objSalesData.display();	
 		
